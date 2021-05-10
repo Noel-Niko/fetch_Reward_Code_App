@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Fetch Data Parsing</string>
+    <string name="name">name</string>
+    <string name="listid">listId</string>
+    <string name="id">id</string>
+    <string name="fetch_rewards_codes">Fetch Reward Codes</string>
+     <string name="list_id">List ID:</string>
+</resources>
